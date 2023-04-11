@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ib51/FjyjfrSZIqwoddfAlWy45uzSLBU2kilTQ5+dkoq1XpJx/vrgpR8eINBcOE9A9WU+Ohqqrm+44Q/jKaesA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RleeA\\OneDrive\\vsWorkspace\\Code\\GitHubProjects\\2023\\Mellosec\\XorCrypt\\XorCrypt\\XorCrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RleeA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\RleeA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\RleeA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\RleeA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

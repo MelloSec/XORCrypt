@@ -1,0 +1,5 @@
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\mellosec\XorCrypt\XorCrypt\bin\Release\net6.0\publish\XorCrypt.exe
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\mellosec\XorCrypt\XorCrypt\bin\Release\net6.0\publish\XorCrypt.dll
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\mellosec\XorCrypt\XorCrypt\bin\Release\net6.0\publish\XorCrypt.deps.json
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\mellosec\XorCrypt\XorCrypt\bin\Release\net6.0\publish\XorCrypt.runtimeconfig.json
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\mellosec\XorCrypt\XorCrypt\bin\Release\net6.0\publish\XorCrypt.pdb
